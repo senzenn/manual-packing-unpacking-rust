@@ -17,6 +17,7 @@ name = "account-serialization"
 version = "0.1.0"
 dependencies = [
  "anyhow",
+ "bytemuck",
  "clap 4.5.48",
  "solana-client",
  "solana-program",
